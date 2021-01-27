@@ -1,3 +1,6 @@
+[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+[![HitCount](http://hits.dwyl.com/pieterconradie/piconomix/doxygen-github-markdown-theme.svg)](http://hits.dwyl.com/pieterconradie/piconomix/doxygen-github-markdown-theme)
+
 Doxygen theme to style HTML output similar to Github Markdown
 =============================================================
 
